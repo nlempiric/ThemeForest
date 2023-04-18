@@ -1,0 +1,13 @@
+.cnctWltBtnClass
+{
+    height: 43px;
+    border-radius: 10px;
+    border: none;
+    
+}
+.cnctWltBtnClass:hover
+{
+    background: #e2e6ea;
+    color: black;
+    /* border: none; */
+}

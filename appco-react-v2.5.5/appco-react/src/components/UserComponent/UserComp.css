@@ -1,0 +1,76 @@
+.formClass
+{
+    margin-top: 100px;
+    position: absolute;
+    /* width: ; */
+}
+.TableFormHeadingClass
+{
+    
+    text-align: center;
+}
+.TableFormHeadingClass p
+{
+    color: white;
+    margin-top: 10px;
+}
+.TableFormHeadingClass h1
+{
+    color: white;
+}
+.TableClass
+{
+    width: 530px;
+    color: white;
+    
+}
+.TableClass td
+{
+    width: 10px;
+    
+}
+.TableTdClass
+{
+    text-align: center;
+}
+.TableButtonClass
+{
+    width: 100px;
+    margin-top: 10px;
+}
+.TableFormClass
+{
+    display: grid;
+    justify-content: center;
+}
+.TableButtonClass
+{
+    background: transparent;
+    width: 190px;
+    height: 50px;
+    border-radius: 50px;
+    color: white;
+    border-color: white;
+    font-weight: 600;
+}
+.TableButtonClass:hover
+{
+    background: white;
+    border: none;
+    color: blueviolet;
+    
+}
+
+.WelcomeImg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: hidden;
+    height: 100%;
+    position: relative;
+}
+.TableClass input
+{
+    width: 100%;
+    background: transparent;
+}

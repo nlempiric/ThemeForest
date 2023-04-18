@@ -1,0 +1,10 @@
+.ArticlecolClass li
+{
+    list-style:circle;
+}
+.ArticleTitleClass
+{
+    font-size: 30px;
+    font-weight: 500;
+    margin-block: 10px;
+}

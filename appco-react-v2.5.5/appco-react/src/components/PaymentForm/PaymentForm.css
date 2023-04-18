@@ -1,0 +1,68 @@
+.PayCardClass
+{
+    width: 435px;
+    height:450px
+}
+.PayCardBodyClass
+{
+
+}
+.PayCardTitleClass
+{
+    font-size: 28px;
+}
+.RadioClass
+{
+    font-size: 16px;
+    padding-left: 8px;
+}
+.RadioInputClass
+{
+    height: 20px;
+    width: 18px;
+    
+}
+.FormGroupClass
+{
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+.InputGroupClass
+{
+    height: 20px;
+
+}
+.InputGroupTextClass
+{
+   color:rgba(150, 41, 230, 0.95); 
+   font-size: 18px;
+   background-color: #f8f9fa;
+   border: none;
+   border-left: 2.5px solid rgba(150, 41, 230, 0.95);
+   border-radius: 0px; 
+}
+.InputClass
+{
+    height: 50px;
+    background-color: #f8f9fa;
+    border: none;
+    
+}
+.InputClass:focus
+{
+    background-color: #f8f9fa
+}
+.CardButtonClass
+{
+    width: 323px;
+    height: 50px;
+    background-color:  rgba(150, 41, 230, 0.95);
+    border: none;
+}
+.CardButtonClass:hover
+{
+
+    border: 2px solid rgba(150, 41, 230, 0.95);
+    background: transparent;
+    color: black;
+}

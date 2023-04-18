@@ -1,0 +1,54 @@
+.TitleClass
+{
+    color:  grey;
+    text-align: center;
+    font-size: 35px;
+}
+
+.IdeasRowClass
+{
+    /* background-color: red; */
+  
+    padding-inline: 20px;
+    border: 1px solid lightgrey;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding-block: 30px;
+}
+
+.FormCheckLabelClass
+{
+    color: grey;
+    font-size: 28px;
+    font-weight: 500;
+}
+.CheckboxClass
+{
+    background-color: #f8f9fa;
+    padding-block: 10px;
+    padding-inline: 20px;
+    margin-left: -18px;
+    border-bottom: 1px solid lightgrey;
+}
+.GenClass
+{
+    width: 1200px;
+    height: 50px;
+    font-size: 20px;
+    background-color: rgb(103, 58, 225);
+    border: none;
+}
+.GenClass:hover
+{
+    background:transparent;
+    border: 2px solid  rgb(103, 58, 225);
+    color: black;
+}
+.FormTextClass
+{
+    
+    font-size: 14px;
+}
+.FormLabelClass
+{
+    /* font-size: 16px; */
+}
